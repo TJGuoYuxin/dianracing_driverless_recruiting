@@ -1,0 +1,2 @@
+pubsub:service
+-DCATKIN_DEVEL_PREFIX=/home/aether/dianracing_ros_gyx/devel -DCMAKE_INSTALL_PREFIX=/home/aether/dianracing_ros_gyx/install -G Unix Makefiles

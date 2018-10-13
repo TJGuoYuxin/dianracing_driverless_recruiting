@@ -1,0 +1,8 @@
+prefix=/home/aether/dianracing_ros_gyx/devel
+
+Name: pubsub
+Description: Description of pubsub
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/aether/dianracing_ros_gyx/devel/lib 
+Requires: 

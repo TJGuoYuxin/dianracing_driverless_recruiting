@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/aether/dianracing_ros_gyx/build/gtest/gtest/src -lpthread -Wl,-rpath,/home/aether/dianracing_ros_gyx/build/gtest/gtest/src 
